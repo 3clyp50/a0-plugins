@@ -1,0 +1,7 @@
+title: File Browser FTPS access
+description: Connect registered FTPS accounts to Files with verified TLS on control and data channels, per-connection permissions and shared Editor support. Preview requiring the File Browser connection provider interface v1.
+github: https://github.com/3clyp50/a0-file-browser-ftps
+tags:
+  - files
+  - storage
+  - integration
