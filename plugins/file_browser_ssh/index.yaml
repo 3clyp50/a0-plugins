@@ -1,0 +1,7 @@
+title: File Browser SSH access
+description: Connect SFTP folders to Files with pinned SSH server identities, instance keys, per-connection permissions and shared Editor support. Preview requiring the File Browser connection provider interface v1.
+github: https://github.com/3clyp50/a0-file-browser-ssh
+tags:
+  - files
+  - storage
+  - integration
