@@ -39,6 +39,7 @@ Use short, lowercase tags. Prefer existing tags from this list. Recommended: up 
 - `webhooks`
 - `oauth`
 - `ui`
+- `welcome`
 
 ## Data / Databases
 
