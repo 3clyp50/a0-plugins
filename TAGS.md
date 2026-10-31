@@ -16,7 +16,7 @@ Use short, lowercase tags. Prefer existing tags from this list. Recommended: up 
 ## AI / LLM
 
 - `llm`
-- `provider`
+- `provider` — Adds model providers usable as Agent Zero's Main or Utility model.
 - `prompting`
 - `embeddings`
 - `rag`
